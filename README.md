@@ -1,4 +1,4 @@
-Code for PCA and ISOMAP written in octave.
+Code for Isomap and PCA written in octave.
 It was done as an assignment problem (Dimensionality Reduction) as part of my 
 coursework.
 
